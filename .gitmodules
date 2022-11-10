@@ -1,3 +1,9 @@
 [submodule "Plugins/FastGas"]
 	path = Plugins/FastGas
 	url = https://github.com/VJien/FastGas.git
+[submodule "Plugins/InteractionFramework"]
+	path = Plugins/InteractionFramework
+	url = https://github.com/VJien/InteractionFramework.git
+[submodule "Plugins/RootMotionSource"]
+	path = Plugins/RootMotionSource
+	url = https://github.com/VJien/RootMotionSource.git
