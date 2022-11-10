@@ -1,0 +1,2 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+Content/Galaxy/Maps/VRTemplateMap_Galaxy_Environment_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,19 @@
+# ignore directories
+
+Plugins\Developer\RiderLink
+Build
+.git
+.gitmodules
+.gitignore
+.gitattributes
+.idea
+.vs
+*.sln
+Intermediate
+Saved
+Binaries
+DerivedDataCache
+
+Push.sh
+Test
+Build

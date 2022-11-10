@@ -1,0 +1,3 @@
+[submodule "Plugins/FastGas"]
+	path = Plugins/FastGas
+	url = https://github.com/VJien/FastGas.git
