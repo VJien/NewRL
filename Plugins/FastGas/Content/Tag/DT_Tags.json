@@ -1,0 +1,297 @@
+[
+	{
+		"Name": "Base",
+		"Tag": "Attribute.Health.Current",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_0",
+		"Tag": "Attribute.Health.RegenRateBase",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow",
+		"Tag": "Attribute.Shiled.Current",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_1",
+		"Tag": "Attribute.Health.MaxBase",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_2",
+		"Tag": "Attribute.Health.BonusConstant",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_3",
+		"Tag": "Attribute.Health.BonusPercent",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_4",
+		"Tag": "Attribute.Health.RegenRateBounsConstant",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_5",
+		"Tag": "Attribute.Health.RegenRateBounsPercent",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_6",
+		"Tag": "Ability.GunShot",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_7",
+		"Tag": "Event.Shared.WeaponHit.Bullet",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_8",
+		"Tag": "Event.Shared.WeaponHit.Grenade",
+		"DevComment": ""
+	},
+	{
+		"Name": "9",
+		"Tag": "State.Death",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_9",
+		"Tag": "GameplayCue.BulletHit.Default",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_10",
+		"Tag": "GameplayCue.BulletMuzzle.Default",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_11",
+		"Tag": "Attribute.Attack.Base",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_12",
+		"Tag": "Attribute.Attack.BounsContant",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_13",
+		"Tag": "Attribute.Attack.BounsPercent",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_14",
+		"Tag": "Cooldown.GunShoot.Default",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_15",
+		"Tag": "Cooldown.GunShoot.Pistol.01",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_16",
+		"Tag": "Cooldown.GunShoot.Rifle.01",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_17",
+		"Tag": "Attribute.BulletNum.Default.Base",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_0",
+		"Tag": "State.Hurt",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_1",
+		"Tag": "State.Attack",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_2",
+		"Tag": "State.BulletTime",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_18",
+		"Tag": "Ability.BulletTime",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_19",
+		"Tag": "Ability.Jump",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_20",
+		"Tag": "Event.Shared.BulletTime.Enter",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_21",
+		"Tag": "Event.Shared.BulletTime.Exit",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_22",
+		"Tag": "Event.Shared.BulletTime.Changed",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_0",
+		"Tag": "Attribute.Energy.Current",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_2",
+		"Tag": "Attribute.Energy.MaxBase",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_3",
+		"Tag": "Attribute.Energy.BounsPercent",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_4",
+		"Tag": "Attribute.Energy.BounsConstant",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_5",
+		"Tag": "Attribute.Energy.Max",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_23",
+		"Tag": "Attribute.Health.Max",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_3",
+		"Tag": "State.Regen.Energy",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_24",
+		"Tag": "Cost.BulletTimeEnergy",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_25",
+		"Tag": "Attribute.BulletNum.Large",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_26",
+		"Tag": "Attribute.BulletNum.Special",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_27",
+		"Tag": "Attribute.BulletNum.Default.Max",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_28",
+		"Tag": "Attribute.BulletNum.Default.PerMag",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_29",
+		"Tag": "Cooldown.GunReload.Empty.Default",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_30",
+		"Tag": "Cooldown.GunReload.Empty.Pistol.01",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_31",
+		"Tag": "Cooldown.GunShoot.Pistol.02",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_32",
+		"Tag": "Cooldown.GunShoot.Pistol.03",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_33",
+		"Tag": "Cooldown.GunShoot.Pistol.04",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_34",
+		"Tag": "GameplayCue.BulletHit.Physics",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_35",
+		"Tag": "GameplayCue.BulletMuzzle.Default",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_36",
+		"Tag": "Event.Shared.OnLanded",
+		"DevComment": ""
+	},
+	{
+		"Name": "NewRow_37",
+		"Tag": "Event.Shared.InAir",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_1",
+		"Tag": "Attribute.Damage.Physics",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_6",
+		"Tag": "Attribute.Damage.Fire",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_7",
+		"Tag": "Attribute.Damage.Ice",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_8",
+		"Tag": "Attribute.Damage.Nature",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_9",
+		"Tag": "Attribute.Damage.Dark",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_4",
+		"Tag": "State.Regen.Health",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_5",
+		"Tag": "State.Regen.Mana",
+		"DevComment": ""
+	},
+	{
+		"Name": "9_6",
+		"Tag": "State.Regen.Shield",
+		"DevComment": ""
+	},
+	{
+		"Name": "Base_10",
+		"Tag": "Attribute.Damage.Arcane",
+		"DevComment": ""
+	}
+]
